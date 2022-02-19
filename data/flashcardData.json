@@ -1,0 +1,32 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+        "cards": [
+            {
+                "question": "Which programming language compiles fastest: Ruby or Javascript?",
+                "hint": "This node.js app processes requests faster than rails.",
+                "answer": "Javascript"
+            },
+            {
+                "question": "What is one way a website can store data in a user's browser?",
+                "hint": "They go well with milk",
+                "answer": "Cookies"
+            },
+            {
+                "question": "Is Javascript single-thread or multithread?",
+                "hint": "The Javascript call stack likes to do one thing at a time.",
+                "answer": "Single-thread"
+            },
+            {
+                "question": "How many different values can booleans have?",
+                "hint": "Think binary",
+                "answer": "2"
+            },
+            {
+                "question": "Is Javascript an object oriented language or a prototype language?",
+                "hint": "Javascript does not have real classes",
+                "answer": "Prototype"
+            }
+        ]
+    }
+}
